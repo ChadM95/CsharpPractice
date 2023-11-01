@@ -1,0 +1,15 @@
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/obj/Debug/net7.0/ClassPractice.csproj.AssemblyReference.cache
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/obj/Debug/net7.0/ClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/obj/Debug/net7.0/ClassPractice.AssemblyInfoInputs.cache
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/obj/Debug/net7.0/ClassPractice.AssemblyInfo.cs
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/obj/Debug/net7.0/ClassPractice.csproj.CoreCompileInputs.cache
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/bin/Debug/net7.0/ClassPractice
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/bin/Debug/net7.0/ClassPractice.deps.json
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/bin/Debug/net7.0/ClassPractice.runtimeconfig.json
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/bin/Debug/net7.0/ClassPractice.dll
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/bin/Debug/net7.0/ClassPractice.pdb
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/obj/Debug/net7.0/ClassPractice.dll
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/obj/Debug/net7.0/refint/ClassPractice.dll
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/obj/Debug/net7.0/ClassPractice.pdb
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/obj/Debug/net7.0/ClassPractice.genruntimeconfig.cache
+/Users/Chad/ATU/OOSD1/ClassPractice/ClassPractice/ClassPractice/obj/Debug/net7.0/ref/ClassPractice.dll
