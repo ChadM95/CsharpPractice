@@ -19,6 +19,14 @@ namespace ClassPractice
 			Grade2 = grade2;
 			Grade3 = grade3;
 		}
+
+
+		public void DisplayStudent()
+		{
+			Console.WriteLine($"{StudentName} {StudentNumber} {Grade1} {Grade2} {Grade3}");
+		} 
+
+
 	}
 }
 

@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{A18D52C3-77A1-49C3-BE25-B24FC5D40377}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ClassPractice FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ClassPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassPractice/Program.cs">
+    <Files>
+      <File FileName="ClassPractice/Program.cs" Line="20" Column="58" />
+      <File FileName="ClassPractice/Student.cs" Line="6" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassPractice">
+            <Node name="ClassPractice">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
