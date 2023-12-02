@@ -1,11 +1,4 @@
-﻿
-int num = 0;
-
-do
-{
-    Console.WriteLine(num);
-    num++;
-} while (num <= 5);
-
+﻿for (int i = 0; i <= 5; i++)
+    Console.WriteLine(i);
 
 Console.ReadLine();
