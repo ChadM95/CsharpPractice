@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+int num = 0;
+
+while (num <= 5)
+{
+    Console.WriteLine("num = " + num);
+    num++;
+}
+
+
+Console.ReadLine();
